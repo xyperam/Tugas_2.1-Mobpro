@@ -1,6 +1,9 @@
-# row_column
 
-A new Flutter project.
+# Ilham Imani Nur Alam
+# 065118207
+# Tugas 2.1 Mobile Programming
+
+Row dan Column 
 
 ## Getting Started
 
